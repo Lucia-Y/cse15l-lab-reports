@@ -30,4 +30,10 @@ Firstly, we need to type some commands in the terminal of Visual Studio Code, fo
 
 Firstly, we need to create a new file named WhereAmI.java, and put the corresponding content into this file. And becasue we do not have java installed, we do not need to use "javac" and "java" on our computers to run this file. Secondly, we need to run this file by typing "scp WhereAmI.java cs15lsp22zz@ieng6.ucsd.edu:~/" to the terminal, and replace zz by letters in our course-specific accounts. Then, it will ask us to enter our passwords for our accounts. After logging into the accounts, we should use the command "ls" and run the file by using "javac" and "java", and we can see the output. Finally, we need to logging into our accounts by typing "ssh cs15lsp22zz@ieng6.ucsd.edu" to the terminal, and replace zz by letters in our course-specific accounts, and then follow the steps above to enter the passwords and use the command "ls" and run the file by using "javac" and "java", and we can see the output. 
 
+## Setting an SSH Key
 
+<img width="1252" alt="Screen Shot 2022-04-10 at 7 07 17 PM" src="https://user-images.githubusercontent.com/103156151/162653748-a06468dd-8ad0-4b6c-bf2c-ffe0dfc6ee32.png">
+
+Firstly, we type "ssh-keygen" in the terminal, and when it says "Enter passphrase (empty for no passphrase):", we only need to click "return" until it does not ask for "enter passphrase" anymore, and then you can see the output. Secondly, we need to type "ssh cs15lsp22zz@ieng6.ucsd.edu", and replace zz by letters in our course-specific accounts, then, enter the passowrds for the accounts. After than, we should type "mkdir .ssh" in the terminal, and then type "<logout>". Then, we type "scp /Users/<user-name>/.ssh/id_rsa.pub cs15lsp22zz@ieng6.ucsd.edu:~/.ssh/authorized_keys", and replace "<user-name>" with our usernames, and replace zz by letters in our course-specific accounts.
+  
+  ## Optimizing Remote Running
