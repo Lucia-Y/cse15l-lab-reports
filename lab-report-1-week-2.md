@@ -10,6 +10,7 @@ Firstly, we need to find our course-specific accounts for CSE 15L course in the 
 
 ## Trying Some Commands
 Running comands on computer
+
 <img width="614" alt="Screen Shot 2022-04-10 at 5 43 57 PM" src="https://user-images.githubusercontent.com/103156151/162647832-8024a610-73ef-4617-b3d5-767bc4026447.png">
 
 Running comands on remote computer after ssh-ing
