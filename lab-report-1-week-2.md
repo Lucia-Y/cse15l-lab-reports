@@ -37,3 +37,11 @@ Firstly, we need to create a new file named WhereAmI.java, and put the correspon
 Firstly, we type "ssh-keygen" in the terminal, and when it says "Enter passphrase (empty for no passphrase):", we only need to click "return" until it does not ask for "enter passphrase" anymore, and then you can see the output. Secondly, we need to type "ssh cs15lsp22zz@ieng6.ucsd.edu", and replace zz by letters in our course-specific accounts, then, enter the passowrds for the accounts. After than, we should type "mkdir .ssh" in the terminal, and then type "<logout>". Then, we type "scp /Users/<user-name>/.ssh/id_rsa.pub cs15lsp22zz@ieng6.ucsd.edu:~/.ssh/authorized_keys", and replace "<user-name>" with our usernames, and replace zz by letters in our course-specific accounts.
   
   ## Optimizing Remote Running
+  
+  <img width="440" alt="Screen Shot 2022-04-10 at 10 14 38 PM" src="https://user-images.githubusercontent.com/103156151/162669521-890c9b14-c494-4297-ac25-75174a0cfd73.png">
+
+  <img width="850" alt="Screen Shot 2022-04-10 at 10 15 08 PM" src="https://user-images.githubusercontent.com/103156151/162669540-1b0d7171-e88e-44ec-8b9f-256f6fa48aa5.png">
+
+In order to make the running time become faster, we should use up arrow on our keyboard to call the last command we used again in the terminal. It can help us to reduce the time of typing all the commands.
+
+Firstly, we type "ssh-keygen" in the terminal, and when it says "Enter passphrase (empty for no passphrase):", we only need to click "return" until it does not ask for "enter passphrase" anymore, and then you can see the output. Secondly, we need to type "ssh cs15lsp22zz@ieng6.ucsd.edu", and replace zz by letters in our course-specific accounts, then, enter the passowrds for the accounts. After than, we should type "mkdir .ssh" in the terminal, and then type "<logout>". Then, we type "scp /Users/<user-name>/.ssh/id_rsa.pub cs15lsp22zz@ieng6.ucsd.edu:~/.ssh/authorized_keys", and replace "<user-name>" with our usernames, and replace zz by letters in our course-specific accounts.
