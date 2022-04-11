@@ -28,4 +28,4 @@ Firstly, we need to type some commands in the terminal of Visual Studio Code, fo
 
 <img width="843" alt="image14" src="https://user-images.githubusercontent.com/103156151/162648239-4b34d1aa-638f-4814-acda-dac04a460093.png">
 
-Firstly, we need to create a new file named WhereAmI.java, and put the corresponding content into this file. Secondly, we should run this file by using javac and java on our computers, and then, we can see the output. After that, we need to type  
+Firstly, we need to create a new file named WhereAmI.java, and put the corresponding content into this file. And becasue we do not have java installed, we do not need to use "javac" and "java" on our computers to run this file. Secondly, we need to run this file by typing "scp WhereAmI.java cs15lsp22zz@ieng6.ucsd.edu:~/" to the terminal, and replace zz by letters in our course-specific accounts. Then, it will ask us to enter our passwords for our accounts. After logging into the accounts, we should use the command "ls" and run the file by using "javac" and "java"
