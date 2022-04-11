@@ -38,8 +38,8 @@ Firstly, we type "ssh-keygen" in the terminal, and when it says "Enter passphras
   
 ## Optimizing Remote Running
   
-  <img width="440" alt="Screen Shot 2022-04-10 at 10 14 38 PM" src="https://user-images.githubusercontent.com/103156151/162669521-890c9b14-c494-4297-ac25-75174a0cfd73.png">
+<img width="440" alt="Screen Shot 2022-04-10 at 10 14 38 PM" src="https://user-images.githubusercontent.com/103156151/162669521-890c9b14-c494-4297-ac25-75174a0cfd73.png">
 
-  <img width="850" alt="Screen Shot 2022-04-10 at 10 15 08 PM" src="https://user-images.githubusercontent.com/103156151/162669540-1b0d7171-e88e-44ec-8b9f-256f6fa48aa5.png">
+<img width="850" alt="Screen Shot 2022-04-10 at 10 15 08 PM" src="https://user-images.githubusercontent.com/103156151/162669540-1b0d7171-e88e-44ec-8b9f-256f6fa48aa5.png">
 
 In order to make the running time become faster, we should use up arrow on our keyboard to call the last command we used again in the terminal. It can help us to reduce the time of typing all the commands.
