@@ -28,4 +28,4 @@ Firstly, we need to type some commands in the terminal of Visual Studio Code, fo
 
 <img width="843" alt="image14" src="https://user-images.githubusercontent.com/103156151/162648239-4b34d1aa-638f-4814-acda-dac04a460093.png">
 
-Firstly, we need to create a new file named WhereAmI.java, and put the corresponding content into this file. Secondly, we should run this file by using javac and java on our computers. 
+Firstly, we need to create a new file named WhereAmI.java, and put the corresponding content into this file. Secondly, we should run this file by using javac and java on our computers, and then, we can see the output. After that, we need to type  
