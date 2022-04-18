@@ -4,7 +4,7 @@
 
 <img width="1019" alt="image 1" src="https://user-images.githubusercontent.com/103156151/162644905-5a490c83-8cc2-47a3-8ea0-89749223a1ab.png">
 
-In order to download the Visual Studio Code application, we need to go the Visual Studio Code website [VS Code] https://code.visualstudio.com/ and follow the dowloading instructions there to download the application to our computers. After we sucessful download the Visual Studio Code application and open it, we can see the image above. 
+In order to download the Visual Studio Code application, we need to go the Visual Studio Code website [VS Code](https://code.visualstudio.com/) and follow the dowloading instructions there to download the application to our computers. After we sucessful download the Visual Studio Code application and open it, we can see the image above. 
 
 ## Remotely Connecting
 
