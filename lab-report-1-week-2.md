@@ -10,7 +10,7 @@ In order to download the Visual Studio Code application, we need to go the Visua
 
 <img width="511" alt="image7" src="https://user-images.githubusercontent.com/103156151/162646706-18993d5f-ba5a-4853-bf4f-34335d9c66cb.png">
 
-Firstly, we need to find our course-specific accounts for CSE 15L course in the website [CSE 15L account](https://sdacs.ucsd.edu/~icc/index.php). Secondly, we should connect to the remote computer using VSCode’s remote option. Then in the Visual Studio Code, we need to open a new terminal, and type ```ssh cs15lsp22zz@ieng6.ucsd.edu``` to the terminal, but remember to replace ```zz``` by letters in our course-specific accounts. Since it is our first time connect to the server, there will be a message "Are you sure you want to continue connecting (yes/no/[fingerprint])?", and we need to answer "yes" to make sure we give the permission to connect. Finally, we enter our passwords for our accounts, and we will connect it successfully.
+Firstly, we need to find our course-specific accounts for CSE 15L course in the website [CSE 15L account](https://sdacs.ucsd.edu/~icc/index.php). Secondly, we should connect to the remote computer using VSCode’s remote option. Then in the Visual Studio Code, we need to open a new terminal, and type ```ssh cs15lsp22zz@ieng6.ucsd.edu``` to the terminal, but remember to replace ```zz``` by letters in our course-specific accounts. Since it is our first time connect to the server, there will be a message ```Are you sure you want to continue connecting (yes/no/[fingerprint])?```, and we need to answer ```yes``` to make sure we give the permission to connect. Finally, we enter our passwords for our accounts, and we will connect it successfully.
 
 ## Trying Some Commands
 
@@ -34,7 +34,7 @@ Firstly, we need to create a new file named WhereAmI.java, and put the correspon
 
 <img width="1252" alt="Screen Shot 2022-04-10 at 7 07 17 PM" src="https://user-images.githubusercontent.com/103156151/162653748-a06468dd-8ad0-4b6c-bf2c-ffe0dfc6ee32.png">
 
-Firstly, we type ```ssh-keygen``` in the terminal, and when it says "Enter passphrase (empty for no passphrase):", we only need to click "return" until it does not ask for "enter passphrase" anymore, and then you can see the output. Secondly, we need to type ```ssh cs15lsp22zz@ieng6.ucsd.edu```, and replace "zz" by letters in our course-specific accounts, then, enter the passowrds for the accounts. After than, we should type ```mkdir .ssh``` in the terminal, and then type ```<logout>```. Then, we type ```scp /Users/<user-name>/.ssh/id_rsa.pub cs15lsp22zz@ieng6.ucsd.edu:~/.ssh/authorized_keys```, and replace ```<user-name>``` with our usernames, and replace ```zz``` by letters in our course-specific accounts.
+Firstly, we type ```ssh-keygen``` in the terminal, and when it says ```Enter passphrase (empty for no passphrase):```, we only need to click return until it does not ask for ```enter passphrase``` anymore, and then you can see the output. Secondly, we need to type ```ssh cs15lsp22zz@ieng6.ucsd.edu```, and replace ```zz``` by letters in our course-specific accounts, then, enter the passowrds for the accounts. After than, we should type ```mkdir .ssh``` in the terminal, and then type ```<logout>```. Then, we type ```scp /Users/<user-name>/.ssh/id_rsa.pub cs15lsp22zz@ieng6.ucsd.edu:~/.ssh/authorized_keys```, and replace ```<user-name>``` with our usernames, and replace ```zz``` by letters in our course-specific accounts.
   
 ## Optimizing Remote Running
   
