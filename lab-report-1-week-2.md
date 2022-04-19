@@ -42,4 +42,8 @@ Firstly, we type ```ssh-keygen``` in the terminal, and when it says ```Enter pas
 
 <img width="850" alt="Screen Shot 2022-04-10 at 10 15 08 PM" src="https://user-images.githubusercontent.com/103156151/162669540-1b0d7171-e88e-44ec-8b9f-256f6fa48aa5.png">
 
+<img width="374" alt="Screen Shot 2022-04-18 at 10 48 39 PM" src="https://user-images.githubusercontent.com/103156151/163928646-52dbcc0e-1e34-416a-98f9-92aa82f0ede9.png">
+
+<img width="843" alt="Screen Shot 2022-04-18 at 10 48 53 PM" src="https://user-images.githubusercontent.com/103156151/163928674-03d02ff3-4a5d-4a7c-a0bd-81481a321ad2.png">
+
 In order to make the running time become faster, we should use up arrow on our keyboard to call the last command we used again in the terminal. It can help us to reduce the time of typing all the commands.
