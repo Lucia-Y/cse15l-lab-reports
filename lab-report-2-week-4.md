@@ -41,7 +41,7 @@ Screenshot for the code changes:
 
 <img width="712" alt="Screen Shot 2022-04-24 at 11 05 11 PM" src="https://user-images.githubusercontent.com/103156151/165030524-11dc2e98-0636-427b-bc51-3253d59ccb56.png">
 
-The link to the file that prompted me to make that change [TestFile4] (https://github.com/Lucia-Y/markdown-parser/blob/main/test-file4.md)
+The link to the file that prompted me to make that change [TestFile4](https://github.com/Lucia-Y/markdown-parser/blob/main/test-file4.md)
 
 The screenshot of failure-inducing input:
 
@@ -51,4 +51,5 @@ The screenshot of the symptom (output):
 
 <img width="593" alt="Screen Shot 2022-04-24 at 11 02 16 PM" src="https://user-images.githubusercontent.com/103156151/165030488-3a930528-1ef6-434e-ac6b-7d10977c11e7.png">
 
-__Relatiohsip among bug, symptom, and failure-inducing input:__ the code has the bug that when the text does not end with ")" or "]", the code can't recognize the ending of the text. So when using the failure-indcing input, the text does not end with ")"or "]", it causes a symptom that the output has a infinity loop, which leads to the out of memeory error. But after fixing the code, it gives the correct output, which is the links.
+__Relatiohsip among bug, symptom, and failure-inducing input:__ the code has the bug that when there is a space between the link name and the link, since the link with this wrong format still has "[", "]", "(", and ")", the code will recognize the link with wrong format as a link and return the link, however, it is not a link because of its format, it should return a bracket with nothing in it. So when using the failure-indcing input, the link with worng format causes a symptom that the output is the link, which is wrong. But after fixing the code, it gives the correct output, which is a bracket with nothing inside.
+
