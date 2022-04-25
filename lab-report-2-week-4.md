@@ -5,7 +5,7 @@ Screenshot for the code changes:
 
 <img width="1232" alt="Screen Shot 2022-04-24 at 10 02 08 PM" src="https://user-images.githubusercontent.com/103156151/165023865-f587dea5-6753-4f50-85bf-7f85baa8e541.png">
  
- The link to the file that prompted me to make that change [TestFile2] (https://github.com/Mashyuf/markdown-parser/blob/main/test-file2.md)
+ The link to the file that prompted me to make that change [TestFile2](https://github.com/Mashyuf/markdown-parser/blob/main/test-file2.md)
  
  The screenshot of failure-inducing input:
  
@@ -23,7 +23,7 @@ Screenshot for the code changes:
 
 <img width="710" alt="Screen Shot 2022-04-24 at 10 20 26 PM" src="https://user-images.githubusercontent.com/103156151/165026574-8ebedd66-fb5e-412f-bd7b-b82dc25f38e8.png">
 
-The link to the file that prompted me to make that change [TestFile3] (https://github.com/Mashyuf/markdown-parser/blob/main/test-file3.md)
+The link to the file that prompted me to make that change [TestFile3](https://github.com/Mashyuf/markdown-parser/blob/main/test-file3.md)
 
 The screenshot of failure-inducing input:
 
