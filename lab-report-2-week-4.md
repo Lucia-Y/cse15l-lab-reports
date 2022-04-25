@@ -15,7 +15,7 @@ The screenshot of the symptom (output):
 
 <img width="602" alt="Screen Shot 2022-04-24 at 7 58 25 PM" src="https://user-images.githubusercontent.com/103156151/165013642-6e8722cf-4dba-454d-a10a-5d78df66a8c4.png">
 
-__Relatiohsip among bug, symptom, and failure-inducing input:__ the code has the bug that when the text does not end with ")", the code can't recognize the ending of the text. So when using the failure-indcing input, the text does not end with ")", it causes a symptom that the output has a infinity loop, which leads to the out of memeory error. But after fixing the code, it gives the correct output.
+__Relatiohsip among bug, symptom, and failure-inducing input:__ the code has the bug that when the text does not end with ")" or "]", the code can't recognize the ending of the text. So when using the failure-indcing input, the text does not end with ")"or "]", it causes a symptom that the output has a infinity loop, which leads to the out of memeory error. But after fixing the code, it gives the correct output, which is the links.
 
 
 ## 2. Second Code Change
@@ -33,4 +33,4 @@ The screenshot of the symptom (output):
 
 <img width="623" alt="Screen Shot 2022-04-24 at 8 00 18 PM" src="https://user-images.githubusercontent.com/103156151/165013708-b9627b98-b16b-404b-bda1-ee5376edea55.png">
 
-__Relatiohsip among bug, symptom, and failure-inducing input:__ the code has the bug that when the text does not end with ")", the code can't recognize the ending of the text. So when using the failure-indcing input, the text does not end with ")", it causes a symptom that the output has a infinity loop. But after fixing the code, it gives the correct output.
+__Relatiohsip among bug, symptom, and failure-inducing input:__ the code has the bug that when the text does not end with ")" or "]", the code can't recognize the ending of the text. So when using the failure-indcing input, the text does not end with ")" or ']", it causes a symptom that the output has a infinity loop, and it leads to the out of memeory error. But after fixing the code, it gives the correct output, which is the links.
