@@ -33,7 +33,7 @@ The screenshot of the symptom (output):
 
 <img width="650" alt="Screen Shot 2022-04-24 at 10 13 55 PM" src="https://user-images.githubusercontent.com/103156151/165026674-018eed0a-4168-49b0-a18d-4f6a38b95e1a.png">
 
-__Relatiohsip among bug, symptom, and failure-inducing input:__ the code has the bug that when the text does not end with ")" or "]", the code can't recognize the ending of the text. So when using the failure-indcing input, the text does not end with ")" or ']", it causes a symptom that the output has a infinity loop, and it leads to the out of memeory error. But after fixing the code, it gives the correct output, which is the links.
+__Relatiohsip among bug, symptom, and failure-inducing input:__ the code has the bug that when the file contains image reference, since the image reference has "[", "]", "(", and ")". So when using the failure-indcing input, the text does not end with ")" or ']", it causes a symptom that the output has a infinity loop, and it leads to the out of memeory error. But after fixing the code, it gives the correct output, which is the links.
 
 
 ## 3. Third Code Change
