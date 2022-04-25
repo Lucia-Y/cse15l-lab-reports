@@ -41,7 +41,7 @@ Screenshot for the code changes:
 
 <img width="712" alt="Screen Shot 2022-04-24 at 11 05 11 PM" src="https://user-images.githubusercontent.com/103156151/165030524-11dc2e98-0636-427b-bc51-3253d59ccb56.png">
 
-The link to the file that prompted me to make that change [TestFile2] (https://github.com/Lucia-Y/markdown-parser/blob/main/test-file2.md)
+The link to the file that prompted me to make that change [TestFile4] (https://github.com/Lucia-Y/markdown-parser/blob/main/test-file4.md)
 
 The screenshot of failure-inducing input:
 
