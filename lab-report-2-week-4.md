@@ -21,17 +21,17 @@ __Relatiohsip among bug, symptom, and failure-inducing input:__ the code has the
 ## 2. Second Code Change
 Screenshot for the code changes:
 
-<img width="710" alt="Screen Shot 2022-04-24 at 8 04 07 PM" src="https://user-images.githubusercontent.com/103156151/165014022-146473dc-712f-41f5-81d2-b4a81969d4bb.png">
+<img width="710" alt="Screen Shot 2022-04-24 at 10 20 26 PM" src="https://user-images.githubusercontent.com/103156151/165026574-8ebedd66-fb5e-412f-bd7b-b82dc25f38e8.png">
 
-The link to the file that prompted me to make that change [TestFile3] (https://github.com/Lucia-Y/markdown-parser/blob/main/test-file3.md)
+The link to the file that prompted me to make that change [TestFile3] (https://github.com/Mashyuf/markdown-parser/blob/main/test-file3.md)
 
 The screenshot of failure-inducing input:
 
-<img width="710" alt="Screen Shot 2022-04-24 at 8 06 23 PM" src="https://user-images.githubusercontent.com/103156151/165014176-1d619de3-ad51-424a-bacf-467a1c4158fa.png">
+<img width="711" alt="Screen Shot 2022-04-24 at 10 20 39 PM" src="https://user-images.githubusercontent.com/103156151/165026608-dca5ba35-ecda-4030-a436-773739e8bacb.png">
 
 The screenshot of the symptom (output):
 
-<img width="623" alt="Screen Shot 2022-04-24 at 8 00 18 PM" src="https://user-images.githubusercontent.com/103156151/165013708-b9627b98-b16b-404b-bda1-ee5376edea55.png">
+<img width="650" alt="Screen Shot 2022-04-24 at 10 13 55 PM" src="https://user-images.githubusercontent.com/103156151/165026674-018eed0a-4168-49b0-a18d-4f6a38b95e1a.png">
 
 __Relatiohsip among bug, symptom, and failure-inducing input:__ the code has the bug that when the text does not end with ")" or "]", the code can't recognize the ending of the text. So when using the failure-indcing input, the text does not end with ")" or ']", it causes a symptom that the output has a infinity loop, and it leads to the out of memeory error. But after fixing the code, it gives the correct output, which is the links.
 
