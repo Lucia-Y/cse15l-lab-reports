@@ -3,7 +3,7 @@
 ## 1. First Code Change
 Screenshot for the code changes:
 
- <img width="1243" alt="Screen Shot 2022-04-24 at 6 25 08 PM" src="https://user-images.githubusercontent.com/103156151/165006201-854e738c-1ec0-4ba6-897b-63965a58ce6d.png">
+<img width="1232" alt="Screen Shot 2022-04-24 at 10 02 08 PM" src="https://user-images.githubusercontent.com/103156151/165023865-f587dea5-6753-4f50-85bf-7f85baa8e541.png">
  
  The link to the file that prompted me to make that change [TestFile2] (https://github.com/Mashyuf/markdown-parser/blob/main/test-file2.md)
  
