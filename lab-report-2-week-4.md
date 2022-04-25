@@ -13,7 +13,7 @@ Screenshot for the code changes:
  
  The screenshot of the symptom (output):
  
- <img width="560" alt="Screen Shot 2022-04-24 at 6 30 08 PM" src="https://user-images.githubusercontent.com/103156151/165007901-d97cf0bf-a989-470f-aa7e-8e9e15b82c7c.png">
+<img width="602" alt="Screen Shot 2022-04-24 at 7 58 25 PM" src="https://user-images.githubusercontent.com/103156151/165023915-0d65fb1e-48a3-4887-a6a3-cc548ba4173e.png">
 
 __Relatiohsip among bug, symptom, and failure-inducing input:__ the code has the bug that when the text does not end with ")" or "]", the code can't recognize the ending of the text. So when using the failure-indcing input, the text does not end with ")"or "]", it causes a symptom that the output has a infinity loop, which leads to the out of memeory error. But after fixing the code, it gives the correct output, which is the links.
 
