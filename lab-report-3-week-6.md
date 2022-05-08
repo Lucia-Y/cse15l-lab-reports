@@ -1,10 +1,10 @@
 # Lab Report 3
 
-## Streamlining ssh Configuration
+## 1. Streamlining ssh Configuration
 
 
-## Setup Github Access from ieng6
+## 2. Setup Github Access from ieng6
 
 
-## Copy whole directories with ```scp -r```
+## 3. Copy whole directories with ```scp -r```
 
