@@ -40,3 +40,8 @@ Screenshot for private key in my account:
 
 ## 3. Copy whole directories with ```scp -r```
 
+Screenshot for copying my whole markdown-parse directory to my ieng6 account:
+
+<img width="561" alt="Screen Shot 2022-05-08 at 10 54 32 PM" src="https://user-images.githubusercontent.com/103156151/167348965-09e00864-892f-4ff3-995f-787974252b90.png">
+
+
