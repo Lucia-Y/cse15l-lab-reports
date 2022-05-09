@@ -27,7 +27,7 @@ I created a new file in the ```~/.ssh``` directory, named ```newFile```, and the
 Screenshot for public key storing on Github:
 <img width="786" alt="Screen Shot 2022-05-08 at 9 36 29 PM" src="https://user-images.githubusercontent.com/103156151/167341499-3fb3ae1e-72ad-4602-82c2-1c6883cb4bb0.png">
 
-I created a new SSH key in my terminal and then, I followed the [tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) for adding the new SSH key to the Github.
+I created a new SSH key in my terminal and then, I followed the [tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) to add the new SSH key to the Github.
 
 ## 3. Copy whole directories with ```scp -r```
 
