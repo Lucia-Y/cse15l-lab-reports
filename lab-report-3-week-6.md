@@ -8,6 +8,8 @@ Screenshot for ```.ssh/config``` file:
 Screenshot for editing the file in the terminal of the computer:
 <img width="699" alt="Screen Shot 2022-05-08 at 7 26 37 PM" src="https://user-images.githubusercontent.com/103156151/167330381-ba2c0c0c-e713-4e10-be4d-e1739a87a3f5.png">
 
+Screenshot for using ```ssh``` command to login into my account:
+<img width="570" alt="Screen Shot 2022-05-08 at 7 28 02 PM" src="https://user-images.githubusercontent.com/103156151/167330547-b4acfa54-2953-4f8f-a580-2cfadf303ef2.png">
 
 ## 2. Setup Github Access from ieng6
 
