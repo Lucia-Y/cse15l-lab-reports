@@ -44,4 +44,8 @@ Screenshot for copying my whole markdown-parse directory to my ieng6 account:
 
 <img width="561" alt="Screen Shot 2022-05-08 at 10 54 32 PM" src="https://user-images.githubusercontent.com/103156151/167348965-09e00864-892f-4ff3-995f-787974252b90.png">
 
+Screenshot for logging into my ieng6 account and compiling and running the tests:
+
+<img width="1085" alt="Screen Shot 2022-05-08 at 10 59 45 PM" src="https://user-images.githubusercontent.com/103156151/167349350-02bb089b-bddf-4a1e-936f-95292cffc7b6.png">
+
 
