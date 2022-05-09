@@ -11,6 +11,10 @@ Screenshot for editing the file in the terminal of the computer:
 Screenshot for using ```ssh``` command to login into my account:
 <img width="570" alt="Screen Shot 2022-05-08 at 7 28 02 PM" src="https://user-images.githubusercontent.com/103156151/167330547-b4acfa54-2953-4f8f-a580-2cfadf303ef2.png">
 
+Screenshot for using ```scp``` command copying a file to my account:
+<img width="1298" alt="Screen Shot 2022-05-08 at 8 50 21 PM" src="https://user-images.githubusercontent.com/103156151/167337549-2f29d2de-d01d-4ca2-bffc-00a65de21509.png">
+
+
 ## 2. Setup Github Access from ieng6
 
 
