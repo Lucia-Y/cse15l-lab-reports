@@ -48,4 +48,9 @@ Screenshot for logging into my ieng6 account and compiling and running the tests
 
 <img width="1085" alt="Screen Shot 2022-05-08 at 10 59 45 PM" src="https://user-images.githubusercontent.com/103156151/167349350-02bb089b-bddf-4a1e-936f-95292cffc7b6.png">
 
+Screenshot for combining ```scp```, ```;```, and ```ssh``` to copy the whole directory and run the tests in one line:
+
+<img width="1440" alt="Screen Shot 2022-05-08 at 11 05 48 PM" src="https://user-images.githubusercontent.com/103156151/167350150-8ddcd0f5-15a6-45e7-8a21-a46117ef7ea0.png">
+
+
 
