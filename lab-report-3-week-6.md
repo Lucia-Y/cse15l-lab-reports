@@ -33,9 +33,13 @@ Screenshot for public key in my account:
 
 <img width="719" alt="Screen Shot 2022-05-08 at 9 57 59 PM" src="https://user-images.githubusercontent.com/103156151/167343488-9fd64eb3-7646-400c-90a6-91c0e6f08ca8.png">
 
+I used ```ssh-keygen``` to create a pair of files which are the public key and private key. When I used ```ls```, I could see ```id_rsa.pub``` is the public key in my account.
+
 Screenshot for private key in my account:
 
 <img width="719" alt="Screen Shot 2022-05-08 at 9 57 59 PM" src="https://user-images.githubusercontent.com/103156151/167344532-0d0e768a-c979-4fbc-98c6-6369d617fd76.png">
+
+I used ```ssh-keygen``` to create a pair of files which are the public key and private key. When I used ```ls```, I could see ```id_rsa``` is the public key in my account.
 
 
 ## 3. Copy whole directories with ```scp -r```
