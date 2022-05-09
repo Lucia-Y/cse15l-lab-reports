@@ -57,13 +57,18 @@ __Screenshot for copying my whole markdown-parse directory to my ieng6 account:_
 
 <img width="561" alt="Screen Shot 2022-05-08 at 10 54 32 PM" src="https://user-images.githubusercontent.com/103156151/167348965-09e00864-892f-4ff3-995f-787974252b90.png">
 
+Firstly, I used ```cd``` comands to go to the markdwon-parse directory, and then, I used ```scp -r . ieng6:~/markdown-parse``` to copy the markdwon-parse directory to my account. Secondly, I used ```ssh ieng6``` to login to my account, and then, I used ```ls``` to see the markdown-parse has been copied into my account.
+
 __Screenshot for logging into my ieng6 account and compiling and running the tests:__
 
 <img width="1085" alt="Screen Shot 2022-05-08 at 10 59 45 PM" src="https://user-images.githubusercontent.com/103156151/167349350-02bb089b-bddf-4a1e-936f-95292cffc7b6.png">
+
+I used ```cd markdwon-parse```to go to the markdwon-parse directory, and then, I used ```javac -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar MarkdownParseTest.java```, and ```java -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar org.junit.runner.JUnitCore MarkdownParseTest``` to run the tests, and all the tests pass.
 
 __Screenshot for combining ```scp```, ```;```, and ```ssh``` to copy the whole directory and run the tests in one line:__
 
 <img width="1440" alt="Screen Shot 2022-05-08 at 11 05 48 PM" src="https://user-images.githubusercontent.com/103156151/167350150-8ddcd0f5-15a6-45e7-8a21-a46117ef7ea0.png">
 
+I used ```scp -r . cs15lsp22ahp@ieng6.ucsd.edu:~/markdown-parse; ssh ieng6 "cd markdown-parse; /software/CSE/oracle-java-17/jdk-17.0.1/bin/javac -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar MarkdownParseTest.java; /software/CSE/oracle-java-17/jdk-17.0.1/bin/java -cp .:lib/junit-4.13.2.jar:lib/hamcrest-core-1.3.jar org.junit.runner.JUnitCore MarkdownParseTest"``` in one line to run the tests, and all the tests pass.                                                                                                       
 
 
