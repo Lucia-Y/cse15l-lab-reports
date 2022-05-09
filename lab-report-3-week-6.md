@@ -17,10 +17,10 @@ Screenshot for using ```ssh``` command to login into my account:
 
 I only typed ```ssh ieng6``` to login to my account.
 
-Screenshot for using ```scp``` command copying a file to my account:
+Screenshot for using ```scp``` command to copy a file to my account:
 <img width="1298" alt="Screen Shot 2022-05-08 at 8 50 21 PM" src="https://user-images.githubusercontent.com/103156151/167337549-2f29d2de-d01d-4ca2-bffc-00a65de21509.png">
 
-I created a new file in the ```~/.ssh``` directory, named ```newFile```, and then I used ```scp newFile ieng6:~/``` to move this ```newFile``` to my account.
+I created a new file in the ```~/.ssh``` directory, named ```newFile```, and then I used ```scp newFile ieng6:~/``` to copy this ```newFile``` to my account.
 
 ## 2. Setup Github Access from ieng6
 
