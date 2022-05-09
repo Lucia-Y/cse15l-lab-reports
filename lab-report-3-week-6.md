@@ -5,7 +5,7 @@
 __Screenshot for ```.ssh/config``` file:__
 <img width="1303" alt="Screen Shot 2022-05-08 at 7 18 49 PM" src="https://user-images.githubusercontent.com/103156151/167329750-71120e51-a51e-4f45-bc2e-165fa89449b3.png">
 
-I went to the terminal in my computer,and then I created the ```~/.ssh``` directory by using ```mkdir -p ~/.ssh```. After that, I used ```cd ~/.ssh``` to go into the ```~/.ssh``` directory, and then I used ```open -t config``` to open my ```config``` file.
+I went to the terminal in my computer,and then I created the ```~/.ssh``` directory by using ```mkdir -p ~/.ssh```. After that, I used ```cd ~/.ssh``` to go into the ```~/.ssh``` directory, and then I used ```open -t config``` to open my config file.
 
 __Screenshot for editing the file in the terminal of the computer:__
 <img width="699" alt="Screen Shot 2022-05-08 at 7 26 37 PM" src="https://user-images.githubusercontent.com/103156151/167330381-ba2c0c0c-e713-4e10-be4d-e1739a87a3f5.png">
