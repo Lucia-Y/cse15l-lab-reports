@@ -47,7 +47,9 @@ __Screenshot for running ```git``` commands to commit and push a change to Githu
 
 I used ```touch NewTask``` to create a new file named ```NewTask```, and then, I tried the ```git``` commands by using ```git add NewTask```, ```git commit -m "adding a line"``` and ```git push origin main``` to make sure all the ```git``` commands work correctly.
 
-Link for [resulting commit](https://github.com/Lucia-Y/markdown-parser/commit/467f9a36f0a998c2491e6b322ab7222fbcb26f02)
+__Link for__ [resulting commit](https://github.com/Lucia-Y/markdown-parser/commit/467f9a36f0a998c2491e6b322ab7222fbcb26f02)
+
+This is the resulting commit I found in my markdown-parser repo.
 
 ## 3. Copy whole directories with ```scp -r```
 
