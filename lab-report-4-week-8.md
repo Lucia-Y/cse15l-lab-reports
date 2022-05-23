@@ -6,3 +6,7 @@ Link for the markdown-parse repository my group reviewed: [repo my group reviewe
 
 ## 1. Snippet 1
 
+__Screenshot for the expect output:
+<img width="1203" alt="Screen Shot 2022-05-22 at 10 19 07 PM" src="https://user-images.githubusercontent.com/103156151/169748769-0e5408a5-4849-4435-9846-702d152429cd.png">
+
+__Screenshot for code in ``MarkdownParseTest.java``:
