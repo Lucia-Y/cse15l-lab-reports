@@ -33,7 +33,7 @@ __Screenshot for my implementation:__ The test did not pass.
 <img width="897" alt="Screen Shot 2022-05-23 at 12 05 37 AM" src="https://user-images.githubusercontent.com/103156151/169762659-0f0ca1b5-a585-4de3-85c4-571ac2da5c65.png">
 
 __Sreenshot for the implementation I reviewed:__ The test did not pass.
-<img width="857" alt="Screen Shot 2022-05-23 at 12 04 44 AM" src="https://user-images.githubusercontent.com/103156151/169762531-33cc51d3-49eb-4972-83eb-2d8530a70f92.png">
+<img width="950" alt="Screen Shot 2022-05-23 at 12 07 40 AM" src="https://user-images.githubusercontent.com/103156151/169763295-7cfa7430-575f-4d2e-b39e-ac2d3f9ebd7b.png">
 
 __Code Change:__
 
