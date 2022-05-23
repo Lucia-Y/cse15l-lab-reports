@@ -18,7 +18,7 @@ __Screenshot for my implementation:__ The test did not pass.
 __Sreenshot for the implementation I reviewed:__ The test did not pass.
 <img width="950" alt="Screen Shot 2022-05-23 at 12 07 40 AM" src="https://user-images.githubusercontent.com/103156151/169763423-87c589a3-4fbc-49ba-b765-434eb131d92c.png">
 
-__Code Change:__ I think there is a small code change that will make my program work for snippet 1 and all related cases that use inline code with backticks. We should ``break`` the while loop when there is a `` ` `` outside the ``[ ]`` for the link. Also, we should still consider and return the link when the `` ` `` is inside the ``[ ]`` for the link, and there is an extra ``]`` inside the ``[ ]`` for the link as well.
+__Code Change:__ I think there is a small code change that will make my program work for snippet 1 and all related cases that use inline code with backticks. We should ``break`` the while loop when there is a `` ` `` outside the ``[]`` for the link. Also, we should still consider and return the link when the `` ` `` is inside the ``[]`` for the link, and there is an extra ``]`` inside the ``[]`` for the link as well.
 
 
 ## 2. Snippet 2
@@ -35,7 +35,7 @@ __Screenshot for my implementation:__ The test did not pass.
 __Sreenshot for the implementation I reviewed:__ The test did not pass.
 <img width="857" alt="Screen Shot 2022-05-23 at 12 04 44 AM" src="https://user-images.githubusercontent.com/103156151/169763522-2c5059e5-bb01-41ca-bb60-ee361dfef44c.png">
 
-__Code Change:__
+__Code Change:__ I think there is a small code change that will make my program work for snippet 1 and all related cases that use inline code with backticks. We should still consider and return the link when the `` \ `` is inside the ``[]`` for the link, and there is an extra ``[]`` inside the ``[]`` for the link as well.
 
 
 ## 3. Snippet 3
