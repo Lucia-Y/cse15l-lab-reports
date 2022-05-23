@@ -16,7 +16,7 @@ __Screenshot for my implementation:__ The test did not pass.
 <img width="904" alt="Screen Shot 2022-05-22 at 10 24 05 PM" src="https://user-images.githubusercontent.com/103156151/169749088-b1ae50af-a0b7-4fc6-87a3-f655cdaa7d8a.png">
 
 __Sreenshot for the implementation I reviewed:__ The test did not pass.
-<img width="1116" alt="Screen Shot 2022-05-22 at 10 32 58 PM" src="https://user-images.githubusercontent.com/103156151/169750216-5b3303bd-d1ae-4e37-a970-108118d2f59a.png">
+<img width="950" alt="Screen Shot 2022-05-23 at 12 07 40 AM" src="https://user-images.githubusercontent.com/103156151/169763423-87c589a3-4fbc-49ba-b765-434eb131d92c.png">
 
 __Code Change:__
 
