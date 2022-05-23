@@ -18,7 +18,7 @@ __Screenshot for my implementation:__ The test did not pass.
 __Sreenshot for the implementation I reviewed:__ The test did not pass.
 <img width="950" alt="Screen Shot 2022-05-23 at 12 07 40 AM" src="https://user-images.githubusercontent.com/103156151/169763423-87c589a3-4fbc-49ba-b765-434eb131d92c.png">
 
-__Code Change:__
+__Code Change:__ 
 
 
 ## 2. Snippet 2
@@ -44,12 +44,12 @@ __Screenshot for the expect output:__
 <img width="1258" alt="Screen Shot 2022-05-22 at 10 44 05 PM" src="https://user-images.githubusercontent.com/103156151/169752353-52f43878-2e3b-4b11-b569-cb15397e6374.png">
 
 __Screenshot for code in ``MarkdownParseTest.java``:__
-<img width="729" alt="Screen Shot 2022-05-22 at 10 40 11 PM" src="https://user-images.githubusercontent.com/103156151/169750890-21fd29bc-8cb1-4441-81d1-dbfc12c34278.png">
+<img width="1084" alt="Screen Shot 2022-05-23 at 12 25 42 AM" src="https://user-images.githubusercontent.com/103156151/169765979-148bcfe7-5ab0-4567-87fc-194b7d86b661.png">
 
 __Screenshot for my implementation:__ The test did not pass.
-<img width="928" alt="Screen Shot 2022-05-22 at 10 42 02 PM" src="https://user-images.githubusercontent.com/103156151/169751202-0ca6d669-350f-481b-8eeb-d7be59ead778.png">
+<img width="910" alt="Screen Shot 2022-05-23 at 12 26 45 AM" src="https://user-images.githubusercontent.com/103156151/169766175-26e50823-47bc-4080-a302-3389a47cc5e4.png">
 
 __Sreenshot for the implementation I reviewed:__ The test did not pass.
-<img width="897" alt="Screen Shot 2022-05-22 at 10 41 07 PM" src="https://user-images.githubusercontent.com/103156151/169751005-f9ad0154-5cd2-4681-8f4f-28bf0e9c6683.png">
+<img width="903" alt="Screen Shot 2022-05-23 at 12 23 27 AM" src="https://user-images.githubusercontent.com/103156151/169765723-eabb2bb4-4636-45b5-8a92-ac06d95a5add.png">
 
 __Code Change:__
