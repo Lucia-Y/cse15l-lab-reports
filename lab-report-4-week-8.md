@@ -52,4 +52,4 @@ __Screenshot for my implementation:__ The test did not pass.
 __Sreenshot for the implementation I reviewed:__ The test did not pass.
 <img width="903" alt="Screen Shot 2022-05-23 at 12 23 27 AM" src="https://user-images.githubusercontent.com/103156151/169765723-eabb2bb4-4636-45b5-8a92-ac06d95a5add.png">
 
-__Code Change:__
+__Code Change:__ I think there is a small code change that will make my program work for snippet 1 and all related cases that use inline code with backticks. We should still consider and return the link when we press the ``return`` key on the keyborad after the ``[](`` and put the link on the next line, and then, press the ``return`` key on the keyborad after the link, and put ``)`` on the next line.
