@@ -6,7 +6,7 @@ __How you found the tests with different results:__
 __link to the test-file with different-results:__
 
 
-## Test 1
+## 1. Test 1
 
 
-## Test 2
+## 2. Test 2
