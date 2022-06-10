@@ -38,4 +38,4 @@ __Describe which implementation is correct:__ The output from the lab 9 version 
 __Describe the bug:__ 
 
 <img width="857" alt="Screen Shot 2022-06-10 at 4 24 46 PM" src="https://user-images.githubusercontent.com/103156151/173162246-005c9c46-79d0-4ae8-a988-a9b5ade30c82.png">
-The problem for the code is the same as the problem for test 571, which is that it still considers it as a link when there is `` ! `` in front of the `` [] ``. In order to fix the code, we need to add another condition that when there is `` ! `` in front of the `` [] ``, the while loop should be `` break ``.
+The problem for the code is the same as the problem for test 571, which is that it still considers it as a link when there is `` ! `` in front of the ``[]``. In order to fix the code, we need to add another condition that when there is `` ! `` in front of the ``[]``, the while loop should be `` break ``.
