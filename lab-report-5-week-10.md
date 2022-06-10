@@ -11,5 +11,19 @@ __link to the test-file with different-results:__ [Test 571](https://github.com/
 
 ## 1. Test 571
 
+__Actual outputs:__  
+<img width="1220" alt="Screen Shot 2022-06-10 at 4 08 07 PM" src="https://user-images.githubusercontent.com/103156151/173161205-1d1493eb-6971-4ed6-8a2c-0f782ff8617c.png">
+
+__Expected outputs:__ 
+<img width="1187" alt="Screen Shot 2022-06-10 at 3 27 48 PM" src="https://user-images.githubusercontent.com/103156151/173161298-03c83b3f-51d7-451e-8325-edd64dd3ffa2.png">
+
+Since it is an image reference, it is not a link, the expected output should be ``[]``.
 
 ## 2. Test 578
+__Actual outputs:__ 
+<img width="1162" alt="Screen Shot 2022-06-10 at 4 08 26 PM" src="https://user-images.githubusercontent.com/103156151/173161237-c287a431-d94b-4e72-a186-947e82ec1ca4.png">
+
+__Expected outputs:__ 
+<img width="1187" alt="Screen Shot 2022-06-10 at 3 28 53 PM" src="https://user-images.githubusercontent.com/103156151/173161312-d54a1107-6928-4a78-aab0-5e6c337dcf17.png">
+
+Since it is an image reference, it is not a link, the expected output should be ``[]``.
